@@ -1,0 +1,85 @@
+
+@media only screen and (max-width: 400px){
+	[class*="col-"]{
+		width: 100%;
+	}
+}
+.vermelha {
+	width: 400px; 
+	height: 50px;
+	background-color:#FF0000;
+	color:#FFFFFF;
+	font-family: Arial;
+	position: relative;
+	margin-top: 0%;
+	margin-bottom: 10%;
+	display: flex;
+  	justify-content: center;  
+  	align-items: center;
+
+}
+#amarelo{
+	width: 400px; 
+	height: 50px;
+	background-color:#FFA500;
+	color:#FFFFFF;
+	font-family: Arial;
+	position: relative;
+	top: -130px;
+	display: flex;
+  	justify-content: center;  
+  	align-items: center;
+}
+.secao{
+	background-color: #66CDAA;
+	width: 230px;
+	height: 250px;
+	position: relative;
+	top: -120px;
+	color: #FFFFFF;
+	font-family: Arial;
+	margin-top: 0%;
+	text-align: center;
+	bottom: 10%; 
+}
+.verde{
+	background-color: #7FFF00;
+	position: relative;
+	width: 160px;
+	height: 50px;
+	top: 100px;
+	color: #FFFFFF;
+	font-family: Arial;
+	right: -5%;
+	display: flex;
+  	justify-content: center;  
+  	align-items: center;
+}
+.azul{
+	background-color: #1E90FF;
+	position: relative;
+	width: 160px;
+	height: 250px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Arial;
+	left: 18%;
+	top: -370px;
+	display: flex;
+  	flex-flow: column nowrap;
+  	justify-content: center;  
+  	
+}
+#cinza{
+	background-color: #A9A9A9;
+	position:relative;
+	color: #FFFFFF;
+	width: 400px;
+	height: 50px;
+	text-align: center;
+	font-family: Arial;
+	top: -365px;
+	display: flex;
+  	flex-flow: column nowrap;
+  	justify-content: center;	
+}
