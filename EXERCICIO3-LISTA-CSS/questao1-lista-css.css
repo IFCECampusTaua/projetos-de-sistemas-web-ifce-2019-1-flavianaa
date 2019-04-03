@@ -1,7 +1,6 @@
 body{
 	 background-color: #DCDCDC;
 	}
-
 #estilo{
 	border: 1px solid #4169E1;
 	width: 300px;
@@ -14,7 +13,6 @@ body{
 	padding: 10px;
 	text-align: justify;
 }
-
 #h1 {
 	border-bottom:  1px solid  #4169E1;
 	color: #4169E1;
@@ -22,8 +20,6 @@ body{
 	font-family: Arial;
 	text-align: center;
 }
-
-
 #rodape {
 	 background-color:#B0C4DE;
 	 width: 320px;
@@ -33,7 +29,5 @@ body{
 	 height: -20%;
 	 left: 38.3%;
 	 text-align: center;
-	
-
 }
 
