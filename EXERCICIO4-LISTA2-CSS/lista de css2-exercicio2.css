@@ -20,7 +20,6 @@ li a {
 	color: white;
 	text-decoration: none;
 }
-
 .menu{
 	float: right;
 }
@@ -53,21 +52,18 @@ li a {
 	color: white;
 	border-radius: 8px;
 }
-
 table{
 	text-align: justify;
 	padding: 15px;
 	width: 100%;
 	font-size: 11pt;
 }
-
 .ver{
 	text-align: center;
 	margin: 5px;
 	padding: 5px;
 	background-color: green;
-	color: white;
-	
+	color: white;	
 }
 .modificar{
 	text-align: center;
@@ -75,7 +71,6 @@ table{
 	padding: 5px;
 	background-color: #DAA520;
 	color: white;
-	
 }
 .limpar{
 	text-align: center;
